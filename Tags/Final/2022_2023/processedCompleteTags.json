@@ -1,0 +1,23 @@
+{
+  "ad hoc": 5,
+  "greedy": 5,
+  "math: combinatorics": 3,
+  "string": 3,
+  "math": 3,
+  "graph: traversal": 2,
+  "bitwise operation": 2,
+  "implementation": 2,
+  "geometry": 2,
+  "searching: brute force": 2,
+  "graph": 2,
+  "dynamic programming": 2,
+  "data structure: disjoint set union": 1,
+  "dynamic programming: combinatorics": 1,
+  "tree": 1,
+  "data structure: segment tree": 1,
+  "string: aho-corasick": 1,
+  "string: suffix structure": 1,
+  "dynamic programming: matrix exponentiation": 1,
+  "math: inclusion-exclusion": 1,
+  "data structure: prefix sum": 1
+}
