@@ -1,0 +1,26 @@
+{
+  "2022": [
+    "math",
+    "graph: shortest path",
+    "dynamic programming: matrix exponentiation",
+    "ad hoc",
+    "geometry",
+    "searching: binary search",
+    "bitwise operation",
+    "game theory: sprague-grundy number",
+    "greedy",
+    "data structure: segment tree",
+    "greedy"
+  ],
+  "2023": [
+    "ad hoc",
+    "optimization trick: convex hull",
+    "ad hoc",
+    "graph",
+    "greedy",
+    "ad hoc",
+    "searching: meet-in-the-middle",
+    "math: number theory",
+    "dynamic programming"
+  ]
+}

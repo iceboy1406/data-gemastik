@@ -1,0 +1,80 @@
+{
+  "teamName": "Proof by Clarification",
+  "university": "Bina Nusantara",
+  "members": [
+    {
+      "name": "Luis Anthonie Alkins",
+      "status": "Graduate",
+      "linkedIn": "https://www.linkedin.com/in/luis-anthonie-alkins-8517201b8",
+      "tlx": {
+        "username": "ZeroScar",
+        "rating": "Unrated"
+      },
+      "codeforces": {
+        "username": "ZeroScar",
+        "currentRating": {
+          "title": "Candidate Master",
+          "rating": 2041
+        },
+        "maxRating": {
+          "title": "Master",
+          "rating": 2207
+        }
+      }
+    },
+    {
+      "name": "Owen Djonatan",
+      "status": "Graduate",
+      "linkedIn": "https://www.linkedin.com/in/owen-djonatan-582387176",
+      "tlx": {
+        "username": "OwenUltima",
+        "currentRating": {
+          "color": "orange",
+          "rating": 2208
+        },
+        "maxRating": {
+          "color": "orange",
+          "rating": 2208
+        }
+      },
+      "codeforces": {
+        "username": "Owmicron",
+        "currentRating": {
+          "title": "Master",
+          "rating": 2114
+        },
+        "maxRating": {
+          "title": "Master",
+          "rating": 2114
+        }
+      }
+    },
+    {
+      "name": "Vio Albert Ferdinand",
+      "status": "Active",
+      "linkedIn": "https://www.linkedin.com/in/vio-albert-ferdinand-b7a67420a/",
+      "tlx": {
+        "username": "vioalbert",
+        "currentRating": {
+          "color": "purple",
+          "rating": 2197
+        },
+        "maxRating": {
+          "color": "orange",
+          "rating": 2307
+        }
+      },
+      "codeforces": {
+        "username": "vioalbert",
+        "currentRating": {
+          "title": "Expert",
+          "rating": 1881
+        },
+        "maxRating": {
+          "title": "Master",
+          "rating": 2151
+        }
+      }
+    }
+  ]
+}

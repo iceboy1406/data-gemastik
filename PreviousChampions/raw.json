@@ -1,0 +1,56 @@
+{
+  "2021": {
+    "gold": {
+      "teamName": "Proof By Clarification",
+      "university": "Bina Nusantara"
+    },
+    "silver": {
+      "teamName": "Ayaka Sayu Venti",
+      "university": "Universitas Indonesia"
+    },
+    "bronze": {
+      "teamName": "Semonga Dapat Akun",
+      "university": "Insititut Teknologi Bandung"
+    },
+    "cooper": {
+      "teamName": "Dolanan Wae",
+      "university": "Universitas Indonesia"
+    }
+  },
+  "2022": {
+    "gold": {
+      "teamName": "Pick a team name For Me",
+      "university": "Universitas Indonesia"
+    },
+    "silver": {
+      "teamName": "sqrt9gag",
+      "university": "Universitas Indonesia"
+    },
+    "bronze": {
+      "teamName": "Gemastim",
+      "university": "Bina Nusantara"
+    },
+    "cooper": {
+      "teamName": "osn susah",
+      "university": "Bina Nusantara"
+    }
+  },
+  "2023": {
+    "gold": {
+      "teamName": "KONferensi PEmrograman KOmpetitif (KONPEKO)",
+      "university": "Bina Nusantara"
+    },
+    "silver": {
+      "teamName": "Steven x Steven",
+      "university": "Universitas Indonesia"
+    },
+    "bronze": {
+      "teamName": "sqrt(9)GAG",
+      "university": "Universitas Indonesia"
+    },
+    "cooper": {
+      "teamName": "Mixue Mango",
+      "university": "Bina Nusantara"
+    }
+  }
+}

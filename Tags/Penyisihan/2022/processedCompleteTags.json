@@ -1,0 +1,12 @@
+{
+  "greedy": 2,
+  "math": 1,
+  "graph: shortest path": 1,
+  "dynamic programming: matrix exponentiation": 1,
+  "ad hoc": 1,
+  "geometry": 1,
+  "searching: binary search": 1,
+  "bitwise operation": 1,
+  "game theory: sprague-grundy number": 1,
+  "data structure: segment tree": 1
+}

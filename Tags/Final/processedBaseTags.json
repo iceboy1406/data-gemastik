@@ -1,0 +1,16 @@
+{
+  "math": 12,
+  "ad hoc": 9,
+  "data structure": 9,
+  "dynamic programming": 8,
+  "greedy": 6,
+  "graph": 6,
+  "searching": 5,
+  "string": 5,
+  "geometry": 4,
+  "tree": 3,
+  "bitwise operation": 3,
+  "game theory": 2,
+  "constructive": 2,
+  "implementation": 2
+}

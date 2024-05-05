@@ -1,0 +1,17 @@
+{
+  "ad hoc": 3,
+  "constructive": 2,
+  "bitwise operation": 1,
+  "graph: min cost flow": 1,
+  "dynamic programming: combinatorics": 1,
+  "dynamic programming: matrix exponentiation": 1,
+  "game theory: sprague-grundy number": 1,
+  "data structure: compression": 1,
+  "data structure: segment tree": 1,
+  "geometry": 1,
+  "searching: ternary search": 1,
+  "data structure: fenwick tree": 1,
+  "math: combinatorics": 1,
+  "tree: flattening": 1,
+  "graph: traversal": 1
+}

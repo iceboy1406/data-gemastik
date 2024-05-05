@@ -1,0 +1,12 @@
+{
+  "ad hoc": 2,
+  "dynamic programming: combinatorics": 2,
+  "constructive": 1,
+  "graph: bipartite": 1,
+  "graph: max matching": 1,
+  "graph: shortest path": 1,
+  "math": 1,
+  "searching: brute force": 1,
+  "dynamic programming: bitmask": 1,
+  "string: knuth-morris-pratt": 1
+}

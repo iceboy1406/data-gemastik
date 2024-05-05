@@ -1,0 +1,87 @@
+{
+  "teamName": "Pick a team name For Me",
+  "university": "Universitas Indonesia",
+  "members": [
+    {
+      "name": "Pikatan Arya Brajamati",
+      "status": "Active",
+      "linkedIn": "https://www.linkedin.com/in/pikatan-arya-bramajati",
+      "tlx": {
+        "username": "Pyqe",
+        "currentRating": {
+          "color": "red",
+          "rating": 2677
+        },
+        "maxRating": {
+          "color": "red",
+          "rating": 2677
+        }
+      },
+      "codeforces": {
+        "username": "Pyqe",
+        "currentRating": {
+          "title": "International Grandmaster",
+          "rating": 2834
+        },
+        "maxRating": {
+          "title": "International Grandmaster",
+          "rating": 2994
+        }
+      }
+    },
+    {
+      "name": "Abdul Rafi",
+      "status": "Active",
+      "linkedIn": "https://www.linkedin.com/in/abdul-rafi/",
+      "tlx": {
+        "username": "abdul_rafiii",
+        "currentRating": {
+          "color": "purple",
+          "rating": 2176
+        },
+        "maxRating": {
+          "color": "purple",
+          "rating": 2186
+        }
+      },
+      "codeforces": {
+        "username": "TakeMe",
+        "currentRating": {
+          "title": "Expert",
+          "rating": 1761
+        },
+        "maxRating": {
+          "title": "Candidate Master",
+          "rating": 2050
+        }
+      }
+    },
+    {
+      "name": "Fernando Nathaniel Sutanto",
+      "status": "Active",
+      "linkedIn": "https://www.linkedin.com/in/nandonathaniel",
+      "tlx": {
+        "username": "nandonathaniel",
+        "currentRating": {
+          "color": "orange",
+          "rating": 2248
+        },
+        "maxRating": {
+          "color": "orange",
+          "rating": 2262
+        }
+      },
+      "codeforces": {
+        "username": "nandonathaniel",
+        "currentRating": {
+          "title": "Expert",
+          "rating": 1791
+        },
+        "maxRating": {
+          "title": "Candidate Master",
+          "rating": 2043
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "greedy": 6,
+  "searching": 6,
+  "dynamic programming": 6,
+  "ad hoc": 6,
+  "math": 5,
+  "graph": 5,
+  "constructive": 1,
+  "string": 1,
+  "geometry": 1,
+  "bitwise operation": 1,
+  "game theory": 1,
+  "data structure": 1,
+  "optimization trick": 1
+}

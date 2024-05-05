@@ -1,0 +1,80 @@
+{
+  "teamName": "KONferensi PEmrograman KOmpetitif (KONPEKO)",
+  "university": "Bina Nusantara",
+  "members": [
+    {
+      "name": "Albert Yulius Ramahalim",
+      "status": "Active",
+      "linkedIn": "https://www.linkedin.com/in/zanite",
+      "tlx": {
+        "username": "Zanite",
+        "currentRating": {
+          "color": "orange",
+          "rating": 2357
+        },
+        "maxRating": {
+          "color": "orange",
+          "rating": 2357
+        }
+      },
+      "codeforces": {
+        "username": "Zanite",
+        "currentRating": {
+          "title": "Grandmaster",
+          "rating": 2447
+        },
+        "maxRating": {
+          "title": "Grandmaster",
+          "rating": 2447
+        }
+      }
+    },
+    {
+      "name": "Rico Filberto",
+      "status": "Graduate",
+      "linkedIn": "https://www.linkedin.com/in/rico-filberto-98b813152/",
+      "tlx": {
+        "username": "rfpermen",
+        "currentRating": {
+          "color": "red",
+          "rating": 2690
+        },
+        "maxRating": {
+          "color": "red",
+          "rating": 2690
+        }
+      },
+      "codeforces": {
+        "username": "rfpermen",
+        "currentRating": {
+          "title": "Grandmaster",
+          "rating": 2493
+        },
+        "maxRating": {
+          "title": "Grandmaster",
+          "rating": 2493
+        }
+      }
+    },
+    {
+      "name": "Felicia Limanta",
+      "status": "Graduate",
+      "linkedIn": "https://www.linkedin.com/in/felicia-limanta/",
+      "tlx": {
+        "username": "siplusplus",
+        "rating": "Unrated"
+      },
+      "codeforces": {
+        "username": "siplusplus",
+        "currentRating": {
+          "title": "Specialist",
+          "rating": 1470
+        },
+        "maxRating": {
+          "title": "Specialist",
+          "rating": 1470
+        }
+      }
+    }
+  ]
+}

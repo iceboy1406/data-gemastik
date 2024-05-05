@@ -1,0 +1,51 @@
+{
+  "2016": [
+    "greedy",
+    "searching: sweep line",
+    "greedy",
+    "searching: brute force",
+    "greedy",
+    "searching: brute force",
+    "dynamic programming",
+    "math: combinatorics",
+    "math: probability"
+  ],
+  "2017": [
+    "ad hoc",
+    "ad hoc",
+    "constructive",
+    "graph: bipartite",
+    "graph: max matching",
+    "dynamic programming: combinatorics",
+    "graph: shortest path",
+    "math",
+    "searching: brute force",
+    "dynamic programming: bitmask",
+    "dynamic programming: combinatorics",
+    "string: knuth-morris-pratt"
+  ],
+  "2022": [
+    "math",
+    "graph: shortest path",
+    "dynamic programming: matrix exponentiation",
+    "ad hoc",
+    "geometry",
+    "searching: binary search",
+    "bitwise operation",
+    "game theory: sprague-grundy number",
+    "greedy",
+    "data structure: segment tree",
+    "greedy"
+  ],
+  "2023": [
+    "ad hoc",
+    "optimization trick: convex hull",
+    "ad hoc",
+    "graph",
+    "greedy",
+    "ad hoc",
+    "searching: meet-in-the-middle",
+    "math: number theory",
+    "dynamic programming"
+  ]
+}

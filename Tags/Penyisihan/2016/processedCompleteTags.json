@@ -1,0 +1,8 @@
+{
+  "greedy": 3,
+  "searching: brute force": 2,
+  "searching: sweep line": 1,
+  "dynamic programming": 1,
+  "math: combinatorics": 1,
+  "math: probability": 1
+}
